@@ -1,7 +1,7 @@
-- 👋 Hi, I’m currently working on my programming skills
+- 👋 Hi, I’m currently mastering machine learning
 - 👀 I’m looking for intership
-- 🌱 I’m currently solving DSA question
-- 💞️ Fun Fact:(Fall X)Rise in love with coding 
+- 🌱 I’m currently solving ML,DSA question
+- 💞️ Fun Fact: Meet me i will tell you
 - 📫 How to reach me abhijust36@gmail.com
 - 
   
